@@ -140,7 +140,6 @@ Send it in your favourite format (link to versioned code, code in zip file etc.)
 * code-kaunas@paysera.com
 * code-sofia@paysera.com
 * code-manila@paysera.com
-* code-dhaka@paysera.com
 * code-saint-petersburg@paysera.com
 * code-plovdiv@paysera.com
 
