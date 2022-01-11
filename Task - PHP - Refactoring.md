@@ -134,13 +134,10 @@ You can put the code publicly (in github or similar code control systems) if you
 Before submitting your solution, please look to the requirements once again – **all** of them **must** be accomplished.
 
 Send it in your favourite format (link to versioned code, code in zip file etc.) to one of the following emails based on your city, unless instructed otherwise:
-* code-afr@paysera.com, if you've been asked to send the task to this email (not depending upon the city)
-* code-zd@paysera.com, if you've been asked to send the task to this email (not depending upon the city)
 * code-vilnius@paysera.com
 * code-kaunas@paysera.com
 * code-sofia@paysera.com
 * code-manila@paysera.com
-* code-saint-petersburg@paysera.com
 * code-plovdiv@paysera.com
 
 Please also note the time taken to complete the task – this helps us to improve the task in case it takes too long for most developers.
