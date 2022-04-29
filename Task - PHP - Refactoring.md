@@ -128,16 +128,8 @@ Assuming PHP code is in `app.php`, you could run it by this command, output migh
 1. Do not use Paysera name in titles, descriptions or the code itself. This helps others to find the libraries that are really related to our services and/or are developed and maintained by our team.
 
 # Task Submission
+Before submitting your task, please review the requirements once again – **all of them must be accomplished**.
 
-You can put the code publicly (in github or similar code control systems) if you want, but please note the requirement about Paysera name usage.
+You can upload the source (i.e. to GitHub) publicly, but **please refrain from using Paysera name** in title, description or source code.
 
-Before submitting your solution, please look to the requirements once again – **all** of them **must** be accomplished.
-
-Send it in your favourite format (link to versioned code, code in zip file etc.) to one of the following emails based on your city, unless instructed otherwise:
-* code-vilnius@paysera.com
-* code-kaunas@paysera.com
-* code-sofia@paysera.com
-* code-manila@paysera.com
-* code-plovdiv@paysera.com
-
-Please also note the time taken to complete the task – this helps us to improve the task in case it takes too long for most developers.
+Submit the task in your chosen format (link to versioned code in GitHub/Google Drive or code in zip file, etc.) by sending it to the email provided by Paysera HR Coordinator or your Agency. Please also include approx. how much time was spent to complete the task.
