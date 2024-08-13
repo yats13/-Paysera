@@ -1,6 +1,6 @@
 services:
   php:
-    container_name: php-paysera
+    container_name: php
     build:
       context: .
       dockerfile: Dockerfile
