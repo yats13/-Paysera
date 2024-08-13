@@ -1,0 +1,15 @@
+services:
+  php:
+    container_name: php-paysera
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/var/www/html
+    working_dir: /var/www/html
+    environment:
+      - COMPOSER_ALLOW_SUPERUSER=1
+    command: bash -c "composer install && php-fpm"
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4

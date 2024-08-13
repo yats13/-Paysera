@@ -1,0 +1,69 @@
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore Composer's lock file if you're not committing it
+/composer.lock
+
+# Ignore environment variables
+.env
+
+# Ignore PHPStorm project files
+.idea/
+
+# Ignore cache and logs
+/cache/
+*.log
+
+# Ignore compiled PHP extension files
+*.so
+
+# Ignore PHPUnit result cache
+.phpunit.result.cache
+
+# Ignore node_modules if using Node.js in your project
+/node_modules/
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore IDE specific files
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# Ignore test coverage results
+coverage/
+
+# Ignore build artifacts
+/build/
+dist/
+
+# Ignore any backups created by editors
+*~
+*.bak
+
+# Ignore Docker-related files
+docker-compose.override.yml
+docker-compose.override.yml.dist
+.docker/
+
+# Ignore logs
+*.log
+
+# Ignore compiled output
+/target/
+/build/
+
+# Ignore specific test results files
+/tests/_output/
+
+# Ignore Laravel specific files if using Laravel
+/vendor/
+/node_modules/
+/storage/
+Homestead.yaml
+Homestead.json
